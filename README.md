@@ -10,3 +10,10 @@ We Will plot the dataframe using the matplotlib module so in order to do that, B
 
 
 ![scalling of dataframe before plotting](https://user-images.githubusercontent.com/40432616/84531802-c1221e80-ad02-11ea-9424-fcb068d9c034.PNG)
+
+
+We will be using the sklear.prepocessing import minmax scaler, for scalling of the dataframe
+
+Why is the use of scaling the data(s) in the dataframe?
+
+![minmax scaler](https://user-images.githubusercontent.com/40432616/84535029-9a66e680-ad08-11ea-9759-9a7d02647e2c.PNG)
