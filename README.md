@@ -22,3 +22,8 @@ Why is the use of scaling the data(s) in the dataframe?
 Trainning data scaling -> we have kept the percentage as 65
 
 ![trainning data 65 percentage](https://user-images.githubusercontent.com/40432616/84535741-0138cf80-ad0a-11ea-8834-c104881a924b.PNG)
+
+
+  BEFORE CREATING OUR LSTM MODEL WE HAVE TO RESHAPE OUR TRAINING DATA & TEST DATA( X_TRAIN AND X_TEST)
+
+![reshape LSTM](https://user-images.githubusercontent.com/40432616/84751763-8eb24300-afda-11ea-89f3-ac9b34a003d4.png)
