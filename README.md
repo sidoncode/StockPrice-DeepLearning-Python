@@ -45,3 +45,6 @@ Below are the two main points.
 Sequential groups a linear stack of layers into a tf.keras.Model.
 Sequential provides training and inference features on this model.
 
+for the LSTM Documentation please refer the below links.
+
+
