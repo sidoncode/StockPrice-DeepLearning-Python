@@ -46,6 +46,7 @@ Sequential groups a linear stack of layers into a tf.keras.Model.
 Sequential provides training and inference features on this model.
 
 for the keras Model Documentation please refer the below links.
+1) -> https://keras.io/api/models/model/
 
 
 
