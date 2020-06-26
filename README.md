@@ -49,4 +49,9 @@ for the keras Model Documentation please refer the below links.
 1) -> https://keras.io/api/models/model/
 
 
+After setting the epochs value and after executing it we need to set the test/train data
+    do check the highlighted texts
+![setting the test and train data](https://user-images.githubusercontent.com/40432616/85873347-9e0d6980-b7ee-11ea-9ad9-31e58107a0da.PNG)
+
+
 
