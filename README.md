@@ -54,7 +54,8 @@ After setting the epochs value and after executing it we need to set the test/tr
 ![setting the test and train data](https://user-images.githubusercontent.com/40432616/85873347-9e0d6980-b7ee-11ea-9ad9-31e58107a0da.PNG)
 
 
-Why to use Keras Model Library API?
+****Why to use Keras Model Library API?*****
+
   The Keras Python library makes creating deep learning models fast and easy.
 
   The sequential API allows you to create models layer-by-layer for most problems. It is limited in that it does not allow you to create models that share layers or have multiple inputs    
