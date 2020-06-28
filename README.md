@@ -1,5 +1,8 @@
 # StockPrice-ML-Python
-Points to be remember:
+Points to be remember while performing this project:
+
+  1) The individual shud have a grasp of good knowledge of numpy and pandas
+  
 
 
 
