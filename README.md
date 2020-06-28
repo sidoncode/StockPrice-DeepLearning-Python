@@ -1,4 +1,8 @@
 # StockPrice-ML-Python
+Points to be remember:
+
+
+
 
 The saved CSV file in local directory
 
