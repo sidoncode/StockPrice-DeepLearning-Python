@@ -1,4 +1,8 @@
 # StockPrice-ML-Python
+Q) Is there any difference between in LSTM and ML?
+
+
+
 Points to be remember while performing this project:
 
   1) The individual shud have a grasp of good knowledge of numpy and pandas.
