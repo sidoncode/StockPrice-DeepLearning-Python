@@ -1,4 +1,4 @@
-# StockPrice-ML-Python
+# StockPrice-DeepLearning-Python
 
 ## Difference between Machine Learning and Deep Learning?
 
