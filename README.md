@@ -2,8 +2,15 @@
 
 ## Why to use Neural Networks in Machine Learning?
 
-### A deep neural network analyzes data with learned representations akin to the way a person would look at a problem. In traditional machine learning, the algorithm is given a set of relevant features to analyze, however, in deep learning, the algorithm is given raw data and derives the features itself.
+A deep neural network analyzes data with learned representations akin to the way a person would look at a problem. In traditional machine learning, the algorithm is given a set of relevant features to analyze, however, in deep learning, the algorithm is given raw data and derives the features itself.
 
+### What's the difference between LSTM and GRU?
+
+-LSTM (Long Short Term Memory): LSTM has three gates (input, output and forget gate)
+
+-GRU (Gated Recurring Units): GRU has two gates (reset and update gate).
+
+-GRU couples forget as well as input gates. GRU use less training parameters and therefore use less memory, execute faster and train faster than LSTM's whereas LSTM is more accurate on dataset using longer sequence. In short, if sequence is large or accuracy is very critical, please go for LSTM whereas for less memory consumption and faster operation go for GRU. If you donot have much floating point operations per second (FLOP's) to spare switch to GRU. LSTM has three values at output (output, hidden and cell) whereas GRU has two values at output (output and hidden).
 
 
 
