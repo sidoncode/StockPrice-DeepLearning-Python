@@ -1,6 +1,6 @@
 # StockPrice-ML-Python
 
-# Why to use Neural Networks in Machine Learning?
+## Why to use Neural Networks in Machine Learning?
 
 </br>A deep neural network analyzes data with learned representations akin to the way a person would look at a problem. In traditional machine learning, the algorithm is given a set of relevant features to analyze, however, in deep learning, the algorithm is given raw data and derives the features itself.
 
