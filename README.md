@@ -7,7 +7,7 @@
 
 
 
-</br> ### Q) Is there any difference between in LSTM and ML?
+### Q) Is there any difference between in LSTM and ML?
 
 </br>Points to be remember while performing this project:
 </br> 1) The individual shud have a grasp of good knowledge of numpy and pandas.
