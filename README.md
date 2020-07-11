@@ -1,5 +1,11 @@
 # StockPrice-ML-Python
 
+## Difference between Machine Learning and Deep Learning?
+
+</br> Deep learning is just a subset of machine learning. In fact, deep learning technically is machine learning and functions in a similar way (hence why the terms are sometimes loosely interchanged). However, its capabilities are different.
+
+</br> While basic machine learning models do become progressively better at whatever their function is, they still need some guidance. If an AI algorithm returns an inaccurate prediction, then an engineer has to step in and make adjustments. With a deep learning model, an algorithm can determine on its own if a prediction is accurate or not through its own neural network.
+
 ## Why to use Neural Networks in Machine Learning?
 
 A deep neural network analyzes data with learned representations akin to the way a person would look at a problem. In traditional machine learning, the algorithm is given a set of relevant features to analyze, however, in deep learning, the algorithm is given raw data and derives the features itself.
