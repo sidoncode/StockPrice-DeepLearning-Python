@@ -16,7 +16,7 @@ A deep neural network analyzes data with learned representations akin to the way
 
 -GRU (Gated Recurring Units): GRU has two gates (reset and update gate).
 
--GRU couples forget as well as input gates. GRU use less training parameters and therefore use less memory, execute faster and train faster than LSTM's whereas LSTM is more accurate on </br> dataset using longer sequence. In short, if sequence is large or accuracy is very critical, please go for LSTM whereas for less memory consumption and faster operation go for GRU. </br> If you donot have much floating point operations per second (FLOP's) to spare switch to GRU. LSTM has three values at output (output, hidden and cell) whereas GRU has two values at </br> output (output and hidden).
+-GRU couples forget as well as input gates. GRU use less training parameters and therefore use less memory, execute faster and train </br> faster than LSTM's whereas LSTM is more accurate on </br> dataset using longer sequence. In short, if sequence is large or accuracy is very critical, please go for LSTM whereas for less memory consumption and faster operation go for GRU. </br> If you donot have much floating point operations per second (FLOP's) to spare switch to GRU. LSTM has three values at output (output, hidden and cell) whereas GRU has two values at </br> output (output and hidden).
 
 
 
