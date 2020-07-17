@@ -1,7 +1,7 @@
 # StockPrice-DeepLearning-Python
 
 
-##MODULES USED IN THE PROJECT:
+## MODULES USED IN THE PROJECT:
 1) Numpy as NP
 2) Pandas as pd
 3) 
