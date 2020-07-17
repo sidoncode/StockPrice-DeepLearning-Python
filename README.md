@@ -1,5 +1,11 @@
 # StockPrice-DeepLearning-Python
 
+
+##MODULES USED IN THE PROJECT:
+1) Numpy as NP
+2) Pandas as pd
+3) 
+
 ## Difference between Machine Learning and Deep Learning?
 
 </br> Deep learning is just a subset of machine learning. In fact, deep learning technically is machine learning and functions in a similar way (hence why the terms are sometimes loosely interchanged). However, its capabilities are different.
