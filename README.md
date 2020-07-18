@@ -4,7 +4,7 @@
 ## MODULES USED IN THE PROJECT:
 1) Numpy as NP
 2) Pandas as pd
-3) 
+3) Keras(A.P.I) Application Programming Interface.
 
 ## Difference between Machine Learning and Deep Learning?
 
