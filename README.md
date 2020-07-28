@@ -103,7 +103,7 @@ After setting the epochs value and after executing it we need to set the test/tr
 
   The Keras Python library makes creating deep learning models fast and easy.
 
-  The sequential API allows you to create models layer-by-layer for most problems. It is limited in that it does not allow you to create models that share layers or have multiple inputs    
+  The sequential API allows the user to create models layer-by-layer for most problems. It is limited in that it does not allow you to create models that share layers or have multiple inputs    
   or outputs.
 
    The functional API in Keras is an alternate way of creating models that offers a lot more flexibility, including creating more complex models.
