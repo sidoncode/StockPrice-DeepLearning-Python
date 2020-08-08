@@ -6,7 +6,7 @@
 2) Pandas as pd
 3) Keras(A.P.I) Application Programming Interface.
 4) TensorFlow using Cuda cores
-5)
+5) Collab Virtual Cuda Cores
 
 ## Difference between Machine Learning and Deep Learning?
 
