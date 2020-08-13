@@ -7,6 +7,7 @@
 3) Keras(A.P.I) Application Programming Interface.
 4) TensorFlow using Cuda cores
 5) Collab Virtual Cuda Cores
+6) Recurrent Neural Networks.
 
 ## Difference between Machine Learning and Deep Learning?
 
